@@ -1,1 +1,1 @@
-script that shows absolute path of current working directory
+A script script to pring Hello, World
